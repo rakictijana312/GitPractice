@@ -5,6 +5,7 @@ public class Main {
         //write your code
         car audi=new car();
 lola l= new lola();
+        lola lu= new lola();
 
     }
 }
