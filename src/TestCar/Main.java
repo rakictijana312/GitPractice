@@ -6,6 +6,8 @@ public class Main {
         car audi=new car();
 lola l= new lola();
         lola lu= new lola();
+      //  la l= new lola();
+        lola lu= new lola();
 
     }
 }
