@@ -9,5 +9,18 @@ lola l= new lola();
       //  la l= new lola();
         lola lu= new lola();
 
+        lola lu= new lola();
+        //  la l= new lola();
+        lola lu= new lola();
+        lola lu= new lola();
+        //  la l= new lola();
+        lola lu= new lola();
+        lola lu= new lola();
+        //  la l= new lola();
+        lola lu= new lola();
+        lola lu= new lola();
+        //  la l= new lola();
+        lola lu= new lola();
+
     }
 }
